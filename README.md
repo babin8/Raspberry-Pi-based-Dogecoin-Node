@@ -7,7 +7,9 @@ The full conversation with Grok can be found at:
 https://grok.com/share/c2hhcmQtMg%3D%3D_907a23df-b235-43f8-85aa-f92374a57789
 
 Hardware used: 
+   
     - Raspberry-pi 4B 2019, 4GB
+    
     - Transcend 512GB External SSD
 
 Step 1: Setup The Raspberry Pi
@@ -25,7 +27,7 @@ Step 2: Install Dogecoin Core
 
     Download the latest [Dogecoin Core](https://github.com/dogecoin/dogecoin/releases) for ARM Linux. (1.14.9 at the time of setup)
 
-        #unpack the donloaded file
+        #unpack the downloaded file
         tar -xvf dogecoin-1.14.9-arm-linux-gnueabihf.tar.gz
 
         #move it to a handy spot, like /home
