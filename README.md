@@ -1,4 +1,4 @@
-# Automated Dogecoin Node
+# Raspberry-Pi Based Dogecoin Node
 
 Objective:
 To build a dogecoin node that is connected to the blockchain 24/7.
