@@ -20,9 +20,9 @@ Hardware used:
 
 Step 1: Setup The Raspberry Pi
 
-    Download the [Raspberry Pi Imager](https://www.raspberrypi.com/software/) and write  Raspberry Pi OS (64-bit) to the SSD. 
-    Connect a keyboard and a mouse. 
-    Configure the OS.
+Download the [Raspberry Pi Imager](https://www.raspberrypi.com/software/) and write  Raspberry Pi OS (64-bit) to the SSD. 
+Connect a keyboard and a mouse. 
+Configure the OS.
 
     Update the Raspberry Pi
     (Open the Terminal)
@@ -31,7 +31,7 @@ Step 1: Setup The Raspberry Pi
 
 Step 2: Install Dogecoin Core
 
-    Download the latest [Dogecoin Core](https://github.com/dogecoin/dogecoin/releases) for ARM Linux. (1.14.9 at the time of setup)
+Download the latest [Dogecoin Core](https://github.com/dogecoin/dogecoin/releases) for ARM Linux. (1.14.9 at the time of setup)
 
         #unpack the downloaded file
         tar -xvf dogecoin-1.14.9-arm-linux-gnueabihf.tar.gz
